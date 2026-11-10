@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="(the service's SVG/PNG URL)" alt="Alpine dawn ASCII art" />
+  <img src="assets/ascii-rest-alpine-dawn.gif" alt="Alpine dawn ASCII art" />
 </p>
 
 
