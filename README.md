@@ -1,7 +1,7 @@
 
-<script type="module" src="https://ascii.rest/ascii.js"></script>
-
-<ascii-art piece="alpine-dawn"></ascii-art>
+<p align="center">
+  <img src="(the service's SVG/PNG URL)" alt="Alpine dawn ASCII art" />
+</p>
 
 
 - 👋 Hi, I'm @luq7
