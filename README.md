@@ -6,8 +6,6 @@
 
 - 👋 Hi, I'm @luq7
 - 👀 I'm interested in Theoretical Computer Science
-- 🌱 I'm currently learning Redis and Flutter framework
-
 - 📫 How to reach me ...
 
 ## Tech I use regularly
